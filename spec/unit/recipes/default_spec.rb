@@ -1,5 +1,5 @@
 #
-# Cookbook:: support_gatherlogs
+# Cookbook:: gatherlogs
 # Spec:: default
 #
 # Copyright:: 2018, The Authors, All Rights Reserved.

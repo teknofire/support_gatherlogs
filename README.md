@@ -1,4 +1,4 @@
-# support_gatherlogs
+# gatherlogs
 
 TODO: Enter the cookbook description here.
 

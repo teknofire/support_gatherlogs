@@ -24,3 +24,7 @@ suites:
       inspec_tests:
         - test/integration/default
     attributes:
+      gatherlogs:
+        users:
+          - username: 'vagrant'
+            shell: 'bash'

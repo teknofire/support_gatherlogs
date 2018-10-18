@@ -1,6 +1,6 @@
-# support_gatherlogs CHANGELOG
+# gatherlogs CHANGELOG
 
-This file is used to list changes made in each version of the support_gatherlogs cookbook.
+This file is used to list changes made in each version of the gatherlogs cookbook.
 
 # 0.1.0
 
