@@ -1,0 +1,1 @@
+default['gatherlogs']['channel'] = 'stable'
