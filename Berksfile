@@ -3,4 +3,4 @@ source 'https://supermarket.chef.io'
 
 metadata
 
-cookbook 'habitat', path: '../habitat'
+#cookbook 'habitat', path: '../habitat'
