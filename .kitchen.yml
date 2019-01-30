@@ -24,3 +24,5 @@ suites:
       inspec_tests:
         - test/integration/default
     attributes:
+      gatherlogs:
+        channel: unstable
