@@ -17,6 +17,8 @@ ruby_block 'wait-for-sup-default-startup' do
 end
 
 gatherlogs = chef_vault_item("secrets", "gatherlogs")
+gatherlogs["chef_license"] = "accept-silent"
+
 hab_user_toml 'grese' do
   config({
     server: gatherlogs.to_hash
